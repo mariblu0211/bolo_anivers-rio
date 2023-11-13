@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Site pessoal</title>
+</head>
+<body>
+    <main>
+        <section class="textinho">
+            <h1>Carta aberta para meus pais</h1>
+            <h3>Olá, meus queridos pais</h3>
+            <p>Primeiramente, eu gostaria de dizer que esse site deu um pouco de trabalho para 
+                ser desevolvido, mas irá valer a pena se vocês verem tudo.</p>
+            <p>Essa é uma carta aberta para pedir uma coisa que é muito importante para mim. 
+                Eu gostaria de pedir para ter a chance de viajar sozinha para o lugar de minha escolha, eu sei que 
+                é um pedido meio que inusitado e também aposto que pensaram -"como vamos deixar ela viajar sozinha? De 
+                jeito nenhum"- Só que peço que considerem esse pedido com carinho. Vou dizer os motivos para isso, porque o "não" 
+                eu já tenho, então vou correr atrás do "sim".</p>
+            <p>Eu gostaria de dizer que eu sempre quis viajar, principalmente viajar sozinha, esse ano vocês tiveram
+                a oportunidade de viajar sem mim, e não porque vocês queriam que isso acontecesse, mas porque foi necessário,
+                -"ah, mas filha você é muito nova, terá oportunidades para viajar sozinha"- eu sei disso, mas eu só quero uma folga
+                antes da faculdade começar. Vocês sabem muito bem o que eu passei no instituto federal, mas só para deixar bem claro 
+                eu dei o meu melhor naquela escola, sempre tirei boas notas, sempre busquei não deixar vocês preocupados comigo na escola,
+                sempre fui responsável com o meu desempenho escolar, só que isso suga bastante. Manter as notas boas cansa -"ah, mas é sua obrigação"-
+                ok, eu entendo que seja minha obrigação já que vocês me dão tudo do melhor, mas lá eu tenho que me esforçar em dobro já que não tenho
+                só matérias básicas, mas também matérias técnicas.</p>
+            <p>Dito isso, essa viagem seria para conhecer novos ares, ter um pouco mais de senso de mundo e principalmente, para eu aprender 
+                a lidar com as coisas sozinha -"ah maria, tu só quer se afastar da gente"- por favor, eu peço que não interpretem dessa maneira,
+                mas é porque eu tenho essa vontade e poxa, eu quero só viajar por alguns dias, eu prometo que não vou esquecer de vocês ou que 
+                vou ficar sem comunicá-los, longe disso, eu trarei presentes e ficarei feliz em contar o que aconteceu na viagem.</p>
+            <p>
+                Por favor, não considerem meu pedido algo exorbitante e que está fora de questão simplesmente porque eu sou muito nova. Em breve, eu farei
+                18 anos -"ah, mas ainda mora embaixo do meu teto e vai ter que seguir tudo o que eu digo"- poxa gente, por isso que eu tenho tanto
+                medo de pedir algo, porque não vale a pena ter que escutar as coisas que vocês dizem, não vale a pena escutar as desculpas que vocês dão. E eu entendo,
+                vocês não foram criados assim, porque comigo seria diferente? Mas por favor, considerem isso por mim.
+            </p>
+            <p>
+                Eu prometo economizar e fazer de tudo para continuar sendo uma boa filha para vocês.
+            </p>
+            <p>
+                Atenciosamente, Maria.
+            </p>
+            
+        </section>
+
+    </main>
+   
+    
+</body>
+</html>
